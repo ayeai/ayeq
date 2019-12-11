@@ -1,0 +1,7 @@
+# (c) Copyright 2019 Abhishek Choudhary
+# Released under MIT License
+
+sudo apt update
+sudo apt install python3-pip python3
+
+pip install qiskit
