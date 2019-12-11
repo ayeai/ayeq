@@ -3,7 +3,6 @@
 ## Quantum 101
 
 ### First OST (one step trick)
-```console
-$ ls
-ac.txt
+```
+curl https://raw.githubusercontent.com/ayeai/ayeq/master/ayeq-101-first-ost | bash -
 ```
